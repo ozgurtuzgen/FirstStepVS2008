@@ -13,6 +13,7 @@ namespace FirstStep
         [STAThread]
         static void Main()
         {
+            //TODO:test
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
